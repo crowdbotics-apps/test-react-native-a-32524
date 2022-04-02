@@ -60,6 +60,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [privacy-policy]()
 - [react-native-login](modules/login)
+- [django-push-notifications](backend/modules/push-notifications)
 
 # Getting started: Frontend
 
